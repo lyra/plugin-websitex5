@@ -2,8 +2,6 @@
 
 PayZen for Website X5 is an open source plugin that links e-commerce websites based on Website X5 to PayZen secured payment gateway developped by [Lyra Network](https://www.lyra-network.com/).
 
-We will put the plugin source code in this repository shortly.
-
 # Installation & Upgrade
 
 Coming soon.
